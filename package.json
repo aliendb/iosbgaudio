@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "aliendb.cordova.background-audio",
+  "description": "",
+  "license": "",
+  "cordova": {
+    "id": "aliendb.cordova.background-audio",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "phonegap",
+    "background-audio",
+    "background",
+    "audio",
+    "media",
+    "ios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  }
+}
