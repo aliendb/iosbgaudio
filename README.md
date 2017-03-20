@@ -7,5 +7,5 @@ Simple implementation.  No control over the event in place.  May not recover fro
 Code was taken from Aubrey Hewes example. 
 Updated to work with lock screen.
 
-Author DB.  AlienDB. https://github.com/aliendb
+AlienDB. https://github.com/aliendb
 MIT License (MIT).
