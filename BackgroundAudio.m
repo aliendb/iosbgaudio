@@ -1,10 +1,6 @@
 #import <Cordova/CDV.h>
 #import <AVFoundation/AVFoundation.h>
 
-@interface BackgroundAudio : CDVPlugin
-{}
-@end
-
 @implementation BackgroundAudio
 
 - (void)pluginInitialize {
